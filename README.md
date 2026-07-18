@@ -2,10 +2,9 @@
 
 End-to-end customer churn analysis using **Python, SQL, and Tableau**. The project transforms raw telecom customer data into an interactive four-page dashboard focused on customer segmentation, churn patterns, and observed monthly revenue loss.
 
-[![Tableau Public](https://img.shields.io/badge/View-Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vadym.korolevych/viz/telco-customer-churn-dashboard/ExecutiveSummary)
-![Python](https://img.shields.io/badge/Python-Data%20Cleaning-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Segmentation-4479A1?logo=sqlite&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)
+[![Python Notebook](https://img.shields.io/badge/Python-Data%20Cleaning-3776AB?logo=python&logoColor=white)](notebooks/01_data_cleaning_feature_engineering.ipynb)
+[![SQL Notebook](https://img.shields.io/badge/SQL-Analysis-4479A1?logo=sqlite&logoColor=white)](notebooks/02_sql_analysis.ipynb)
+[![SQL Queries](https://img.shields.io/badge/SQL-Queries-003B57?logo=sqlite&logoColor=white)](sql/queries.sql)
 
 > **[Explore the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/vadym.korolevych/viz/telco-customer-churn-dashboard/ExecutiveSummary)**
 
